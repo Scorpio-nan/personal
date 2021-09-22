@@ -4,7 +4,7 @@
 
     在职期间担任公司 H5 前端开发工程师, 负责东盟高尔夫前端 APP 的开发与维护工作; 
 
-+ 2017-07 ~ 至今  广州市源众科技有限公司
++ 2017-07 ~ 至今  泽怡信息科技有限公司
 
     负责公司客户端前端产品需求整理、 研发与维护、 前后台部门之前的联调等;
 
@@ -18,10 +18,12 @@
 + 熟悉 PWA 应用原理；
 + 熟悉 CocosCreator + Typescript 游戏开发技术栈；
 + 了解 Nodejs 全栈项目在 Linux 环境 Docker 容器的部署；
+
 ### 开源项目
 + [个人博客](https://scorpio-nan.github.io)  - https://scorpio-nan.github.io
 + [Nodejs Socket.io在线聊天室](https://github.com/Scorpio-nan/NodeJS-/tree/master/NodeJs%E5%9C%A8%E7%BA%BF%E8%81%8A%E5%A4%A9%E5%AE%A4) - https://github.com/Scorpio-nan/NodeJS-/tree/master/NodeJs%E5%9C%A8%E7%BA%BF%E8%81%8A%E5%A4%A9%E5%AE%A4
 + [基于Vue + mui 封装的组件](https://github.com/Scorpio-nan/H5-CSS3/tree/master/Vue-Components) - https://github.com/Scorpio-nan/H5-CSS3/tree/master/Vue-Components
+
 ### 项目经历
 ####  楚邑客栈(小程序)  2020-11 ~ 2021-02
 + 技术栈: React + Taro + Redux + typescript
@@ -32,6 +34,7 @@
     - 封装无数据时公用展示 NoData 组件；
     - 封装腾讯地图小程序 SDK 调用方法；
     - 开发业务组件(页面)；
+
 ####  楚邑客栈-小程序管理后台  2020-11 ~ 2021-02
 + 技术栈：Vue + Vuex + ElementUI + TencentMapSDK
 + 项目描述：小程序管理后台, 管理小程序基础数据, 商户通过后台录入民宿基本信息、 优惠活动、 优惠券信息等; 
@@ -40,13 +43,15 @@
     - 封装腾讯地图 jssdk jsonp 请求模块，以及腾讯地图组件；
     - 基于 Vue 的自定义指定，封装用户权限指令，用于后台管理页面按钮级别的用户权限；
     - 业务模块开发；
-#### 包网服务平台 (PC端)  2019-07 ~ 至今
+
+#### Sass 服务平台 (PC端)  2019-07 ~ 至今
 +  技术栈：Vue + Vuex + ElementUI
 + 项目描述：一站式包网服务平台, 服务多个公司网站主页, 外包性质, 由客户给出网站需求, 定制化网站;  一套代码通过 Webpack 和 NodeJS 配置不同参数构建出不同的 web 站点; 
 + 职责：负责框架搭建, 项目中常用组件开发, 前端业务模块开发以及后期 Webpack 打包优化;
     - 基于 webpack 构建工具优化项目打包资源分配；
     - 封装一些常用的业务组件，例如计数器等；
     - 业务模块开发；
+
 #### 公司官网 
 + 技术栈：Vue + Vuex + Bootstrap + I18n
 + 项目描述：响应式网站, 兼容不同尺寸 PC 和移动端; 由于公司业务需要, 引入多语言模块; 
@@ -54,6 +59,7 @@
     - 搭建 Vue 和 Bootstrap 响应式和多语言开发框架；
     - 编写响应式常用尺寸下样式规格 scss；
     - 业务模块开发；
+
 #### 前端构建工具  
 + 技术栈：Nodejs + Electron + Vue + ElementUI + Mysql
 + 项目描述：windows 客户端工具, 由于包网平台站打包的站点比较多, 每次都需要手动去修改 Webpack 配置, 手动执行构建命令, 这样人工操作如果配置忘记修改就会构建出错, 便开发了一个应用程序, 一键构建; Mysql 存各站点配置, 前端客户端已勾选的方式选择配置项, 再一键构建; 并打成 zip 包推送到服务器; 个人开发服务于公司业务的工具;
@@ -67,6 +73,7 @@
     - 封装常用的组件，例如移动端键盘组件，音效组件等；
     - 基于原生 ajax 封装 api 请求模块；
     - 业务组件开发
+
 #### H5 活动页
 + 技术栈：FaryGUI + PIXI + Typescript
 + 项目描述：h5 页面活专题页，里面有包含抢红包，转盘活动等；用户通过专题页链接点击进来，免登录参与抽奖活动；公司之前用过 h5 + css3 的方式去做过活动专题页，但是运行在 webview 里面的效果不太理想，在低端手机上有卡顿或者是掉帧，后面选用 canvas 的方式，性能上要比 css3 好；FaryGUI 有可视化界面，直接拖拽就能完成效果图，并且通过 PIXI 库还能使用龙骨动画，用户体验也是要优于 css3 动画；
